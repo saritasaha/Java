@@ -1,0 +1,11 @@
+package FileIO;
+
+public class ReadFromFile {
+	
+	public static void main(String[] args) {
+		
+		// TODO : create a program to read from the ip.txt file and print to console words between 5-8 characters in length
+		
+	}
+
+}

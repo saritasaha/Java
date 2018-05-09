@@ -1,3 +1,5 @@
+package generalStuff;
+package default;
 
 public class ValueOfX {
 	
